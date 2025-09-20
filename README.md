@@ -123,6 +123,6 @@ jyoti-yadav-28954234b )
 ✨ If you find this project helpful, don’t forget to ⭐ the repo!
 
 
-![Blinkit-Sales-Dashboard](Blinkit Dashboard.png)
+![Blinkit-Sales-Dashboard](https://github.com/Jyoti931930/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Dashboard.png)
 
 
