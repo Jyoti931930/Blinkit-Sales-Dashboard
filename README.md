@@ -38,45 +38,68 @@ Outlet Location Type -	Tier of the city (Tier 1, 2, 3)
 Outlet Type	- Type of outlet (Supermarket, Grocery Store, etc.)
 
 
+
 🛠 Skills & Tools Used
 
 Power BI
+
 Power Query (data cleaning & transformation)
+
 DAX (measures & KPIs: Total Sales, Average Sales, Avg Rating, % Contribution)
+
 Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
 
 📊 Dashboard Insights
 
 ✔ Total Sales = $1.20M
+
 ✔ Number of Items = 8,523
+
 ✔ Average Sales per Item = $141
+
 ✔ Average Rating = 3.9
 
+
 🔹 Tier 3 outlets contribute the most sales ($472K).
+
 🔹 Supermarket Type 3 is the top-performing outlet ($787K+).
+
 🔹 Fruits & Snack Foods dominate in item categories.
+
 🔹 Regular fat items generate more sales than low-fat.
+
 🔹 Sales trends dipped around 2010 but stabilized afterward.
 
+
 🎯 Key Learnings
+
 Cleaning & preparing structured data using Power Query
+
 Creating DAX measures for business KPIs
+
 Designing interactive dashboards with filters & slicers
+
 Interpreting data trends and converting them into actionable business insights
 
 
 📂 Project Files
 
 📁 Blinkit-Sales-Dashboard
+
 │── 📄 BlinkIT Grocery Data.csv   # Raw dataset
+
 │── 📊 Blinkit Analysis.pbix      # Power BI file
+
 │── 📸 Blinkit Dashboard.png      # Dashboard screenshot
+
 │── 📄 README.md                  # Documentation
+
 
 🙋‍♂️ About Me
 
 I am a fresher Data Analyst passionate about data storytelling, dashboarding, and problem-solving.
 Currently seeking opportunities as a Data Analyst / Business Analyst where I can apply these skills to real business challenges.
+
 
 📩 Connect with me on LinkedIn (www.linkedin.com/in/
 jyoti-yadav-28954234b )
