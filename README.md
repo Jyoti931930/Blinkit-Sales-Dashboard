@@ -123,4 +123,5 @@ jyoti-yadav-28954234b )
 ✨ If you find this project helpful, don’t forget to ⭐ the repo!
 
 
-![Blinkit Dashboard] (Blinkit Dashboard.png)
+![Blinkit Sales Dashboard](Blinkit_Dashboard.png)
+
