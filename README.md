@@ -45,15 +45,15 @@ Outlet Type	- Type of outlet (Supermarket, Grocery Store, etc.)
 
 🛠 Skills & Tools Used
 
-Power BI
+🔹 Power BI
 
-Power Query (data cleaning & transformation)
+🔹 Power Query (data cleaning & transformation)
 
-DAX (measures & KPIs: Total Sales, Average Sales, Avg Rating, % Contribution)
+🔹 DAX (measures & KPIs: Total Sales, Average Sales, Avg Rating, % Contribution)
 
-Data Modeling (relationships between product & outlet dimensions)
+🔹 Data Modeling (relationships between product & outlet dimensions)
 
-Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
+🔹 Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,13 +82,13 @@ Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
 
 🎯 Key Learnings
 
-Cleaning & preparing structured data using Power Query
+🔹 Cleaning & preparing structured data using Power Query
 
-Creating DAX measures for business KPIs
+🔹 Creating DAX measures for business KPIs
 
-Designing interactive dashboards with filters & slicers
+🔹 Designing interactive dashboards with filters & slicers
 
-Interpreting data trends and converting them into actionable business insights
+🔹 Interpreting data trends and converting them into actionable business insights
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -119,4 +119,8 @@ Currently seeking opportunities as a Data Analyst / Business Analyst where I can
 📩 Connect with me on LinkedIn (www.linkedin.com/in/
 jyoti-yadav-28954234b )
 
+
 ✨ If you find this project helpful, don’t forget to ⭐ the repo!
+
+
+![Blinkit Dashboard](Blinkit Dashboard.png)
