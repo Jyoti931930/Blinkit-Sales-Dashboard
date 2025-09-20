@@ -12,17 +12,29 @@ The dataset consists of (8,523) sales records with the following columns:
 Column Name	& Description:
 
 Item Identifier	- Unique ID for each product
+
 Item Type -	Category of item (Fruits, Snack Foods, Beverages, etc.)
+
 Item Fat Content - Fat level (Regular, Low Fat)
+
 Item Weight	- Product weight (in kg)
+
 Item Visibility	- Display area (%)
+
 Total Sales -	Sales value for the item
+
 Rating -	Customer rating of the item
+
 Outlet Identifier -	Unique ID for each outlet
+
 Outlet Establishment Year	- Year the outlet was established
+
 Outlet Size -	Size of outlet (Small, Medium, High)
+
 Outlet Location Type -	Tier of the city (Tier 1, 2, 3)
+
 Outlet Type	- Type of outlet (Supermarket, Grocery Store, etc.)
+
 
 🛠 Skills & Tools Used
 
