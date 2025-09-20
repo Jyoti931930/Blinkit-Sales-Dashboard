@@ -6,6 +6,7 @@ This project analyzes Blinkit Grocery Sales Data (8,523 records, 12 columns) to 
 I built a Power BI Dashboard that transforms raw sales data into meaningful KPIs and visuals – a practice project to simulate real-world analytics.
 
 The goal: Gain hands-on experience in the Data Analyst workflow → data cleaning, modeling, DAX calculations, visualization, and storytelling.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Dataset Details
 
@@ -36,6 +37,7 @@ Outlet Size -	Size of outlet (Small, Medium, High)
 Outlet Location Type -	Tier of the city (Tier 1, 2, 3)
 
 Outlet Type	- Type of outlet (Supermarket, Grocery Store, etc.)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
