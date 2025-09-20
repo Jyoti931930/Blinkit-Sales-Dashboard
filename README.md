@@ -10,6 +10,7 @@ The goal: Gain hands-on experience in the Data Analyst workflow → data cleanin
 The dataset consists of (8,523) sales records with the following columns:
 
 Column Name	& Description:
+
 Item Identifier	- Unique ID for each product
 Item Type -	Category of item (Fruits, Snack Foods, Beverages, etc.)
 Item Fat Content - Fat level (Regular, Low Fat)
@@ -24,12 +25,14 @@ Outlet Location Type -	Tier of the city (Tier 1, 2, 3)
 Outlet Type	- Type of outlet (Supermarket, Grocery Store, etc.)
 
 🛠 Skills & Tools Used
+
 Power BI
 Power Query (data cleaning & transformation)
 DAX (measures & KPIs: Total Sales, Average Sales, Avg Rating, % Contribution)
 Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
 
 📊 Dashboard Insights
+
 ✔ Total Sales = $1.20M
 ✔ Number of Items = 8,523
 ✔ Average Sales per Item = $141
@@ -49,6 +52,7 @@ Interpreting data trends and converting them into actionable business insights
 
 
 📂 Project Files
+
 📁 Blinkit-Sales-Dashboard
 │── 📄 BlinkIT Grocery Data.csv   # Raw dataset
 │── 📊 Blinkit Analysis.pbix      # Power BI file
@@ -59,7 +63,7 @@ Interpreting data trends and converting them into actionable business insights
 I am a fresher Data Analyst passionate about data storytelling, dashboarding, and problem-solving.
 Currently seeking opportunities as a Data Analyst / Business Analyst where I can apply these skills to real business challenges.
 
-📩 Connect with me on LinkedIn )www.linkedin.com/in/
+📩 Connect with me on LinkedIn (www.linkedin.com/in/
 jyoti-yadav-28954234b )
 
 ✨ If you find this project helpful, don’t forget to ⭐ the repo!
