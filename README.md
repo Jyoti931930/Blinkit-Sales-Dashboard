@@ -1,12 +1,14 @@
 📊 Blinkit Sales Dashboard – Power BI Project
 
 📌 Project Overview
+
 This project analyzes Blinkit Grocery Sales Data (8,523 records, 12 columns) to uncover insights about outlet performance, product sales, and customer preferences.
 I built a Power BI Dashboard that transforms raw sales data into meaningful KPIs and visuals – a practice project to simulate real-world analytics.
 
 The goal: Gain hands-on experience in the Data Analyst workflow → data cleaning, modeling, DAX calculations, visualization, and storytelling.
 
 📂 Dataset Details
+
 The dataset consists of (8,523) sales records with the following columns:
 
 Column Name	& Description:
@@ -72,6 +74,7 @@ Interpreting data trends and converting them into actionable business insights
 │── 📄 README.md                  # Documentation
 
 🙋‍♂️ About Me
+
 I am a fresher Data Analyst passionate about data storytelling, dashboarding, and problem-solving.
 Currently seeking opportunities as a Data Analyst / Business Analyst where I can apply these skills to real business challenges.
 
