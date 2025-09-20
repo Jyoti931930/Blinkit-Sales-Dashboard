@@ -47,29 +47,22 @@ Power Query (data cleaning & transformation)
 
 DAX (measures & KPIs: Total Sales, Average Sales, Avg Rating, % Contribution)
 
+Data Modeling (relationships between product & outlet dimensions)
+
 Data Visualization (KPI Cards, Bar Charts, Donut Charts, Line Graphs, Slicers)
 
 📊 Dashboard Insights
 
 ✔ Total Sales = $1.20M
-
 ✔ Number of Items = 8,523
-
 ✔ Average Sales per Item = $141
-
 ✔ Average Rating = 3.9
 
-
 🔹 Tier 3 outlets contribute the most sales ($472K).
-
 🔹 Supermarket Type 3 is the top-performing outlet ($787K+).
-
 🔹 Fruits & Snack Foods dominate in item categories.
-
 🔹 Regular fat items generate more sales than low-fat.
-
 🔹 Sales trends dipped around 2010 but stabilized afterward.
-
 
 🎯 Key Learnings
 
@@ -95,10 +88,12 @@ Interpreting data trends and converting them into actionable business insights
 │── 📄 README.md                  # Documentation
 
 
+
 🙋‍♂️ About Me
 
 I am a fresher Data Analyst passionate about data storytelling, dashboarding, and problem-solving.
 Currently seeking opportunities as a Data Analyst / Business Analyst where I can apply these skills to real business challenges.
+
 
 
 📩 Connect with me on LinkedIn (www.linkedin.com/in/
